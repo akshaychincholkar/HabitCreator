@@ -62,7 +62,7 @@ public class MainClient {
 					System.out.println("SUCCESSFULLY EXITED");
 					System.out.println("************************************");
 					break;
-			default:System.out.println("@@PLEASE SELECT APPROPRIATE OPTION");
+			default:System.out.println("@@@PLEASE SELECT APPROPRIATE OPTION");
 			}
 		}
 	}
