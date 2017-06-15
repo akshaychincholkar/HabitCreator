@@ -19,7 +19,7 @@ public class SynchronizedDemo implements Runnable{
 			try {
 				System.out.println("Acquired the lock"+Thread.currentThread().getName());
 				Thread.sleep(2000);
-			} catch (InterruptedException e) {
+			} catch ( InterruptedException e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
 			}
